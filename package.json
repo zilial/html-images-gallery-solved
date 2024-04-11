@@ -1,0 +1,34 @@
+{
+  "name": "html-image-gallery-solved",
+  "version": "1.0.0",
+  "description": "Relative paths building assignment.",
+  "main": "index.js",
+  "scripts": {
+    "browser-install": "npx playwright install chromium",
+    "deps-install": "npx playwright install-deps",
+    "test": "npx playwright test",
+    "test-ui": "npx playwright test --ui",
+    "show-report": "npx playwright show-report",
+    "live-server": "npx live-server --port=5551",
+    "test-main": "npx playwright test main-page-tests.spec.js",
+    "test-modern-design": "npx playwright test modern-design-page-tests.spec.js",
+    "test-nature": "npx playwright test nature-page-tests.spec.js",
+    "test-plants": "npx playwright test plants-page-tests.spec.js",
+    "test-space": "npx playwright test space-page-tests.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devslopes/html-images-gallery-solved.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devslopes/html-images-gallery-solved/issues"
+  },
+  "homepage": "https://github.com/devslopes/html-images-gallery-solved#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.38.1",
+    "@types/node": "^20.8.3"
+  }
+}
