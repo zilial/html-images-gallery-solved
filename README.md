@@ -1,7 +1,5 @@
 # Image Gallery
 
-Relative paths building assignment.
-
 ## Introduction
 
 In this assignment, you will be fixing the paths to service files, images, and pages of a Digital Art website. The website showcases modern frontend features, including mobile responsiveness using media queries, a Flexbox layout, mobile navigation, and CSS transparency.
