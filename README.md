@@ -20,16 +20,16 @@ After completing the assignment, feel free to explore the CSS and JS files to ge
 
 This assignment should prove that a student is able to:
 
-- [ ] Use relative paths based on the current file location.
+- Use relative paths based on the current file location.
   - Half step.
   - Full step.
-- [ ] Use absolute paths based on the project root.
-- [ ] Link files to your static HTML document.
+- Use absolute paths based on the project root.
+- Link files to your static HTML document.
   - CSS files.
   - JS files.
   - Images.
-- [ ] Construct paths to navigate through pages of a static website.
-- [ ] Link external pages to your Website.
+- Construct paths to navigate through pages of a static website.
+- Link external pages to your Website.
 
 ## Standard requirements
 
