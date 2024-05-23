@@ -50,7 +50,7 @@ This assignment should prove that a student is able to:
   - [ ] Use `npm run test-modern-design` to run modern-design.html file tests
   - [ ] Use `npm run test-nature` to run nature.html file tests
   - [ ] Use `npm run test-plants` to run plants.html file tests
-  - [ ] Use `npm run test space` to run space.html file tests
+  - [ ] Use `npm run test-space` to run space.html file tests
   - [ ] (Optional) Use `npm run test-ui` to run all the tests with GUI
   - [ ] (Optional) Use `npm run show-report` to see the latest report in the browser
 - [ ] VSCode IDE MUST have 0 code problems listed (spelling problems are fine)
