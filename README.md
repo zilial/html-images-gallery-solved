@@ -16,6 +16,8 @@ The live-server NPM package page: [Link](https://www.npmjs.com/package/live-serv
 
 After completing the assignment, feel free to explore the CSS and JS files to get a glimpse of the technologies you will learn in future modules of the Devslopes curriculum.
 
+Make sure to watch the [INTRO VIDEO](https://www.loom.com/share/c0569858f7d5421fab6e9597302e7dc1?sid=38906dd1-7efd-4d97-b8c1-e5e9870f3e02) before you start.
+
 **!!! NOTE**: You will find the "[TODO Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)" or the "[TODO Highlight](https://marketplace.visualstudio.com/items?itemName=jgclark.vscode-todo-highlight)" VSCode extension really useful for this assignment, as it will highlight every "TODO" keyword in the commented lines of the files you need to update.
 
 ## Learning Objectives
