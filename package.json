@@ -28,7 +28,9 @@
   },
   "homepage": "https://github.com/devslopes/html-images-gallery-solved#readme",
   "devDependencies": {
-    "@playwright/test": "^1.38.1",
     "@types/node": "^20.8.3"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.49.1"
   }
 }
