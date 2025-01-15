@@ -1,6 +1,10 @@
+const {
+  'liveServer.settings.port': liveServerPort,
+} = require('../.vscode/settings.json');
+
 // @ts-check
 import { test, expect } from '@playwright/test';
-const mainPageUrl = 'http://localhost:5551/';
+const mainPageUrl = `http://localhost:${liveServerPort}/`;
 const plantsPageUrl = `${mainPageUrl}pages/plants.html`;
 const modernDesignPageUrl = `${mainPageUrl}pages/modern-design.html`;
 const spacePageUrl = `${mainPageUrl}pages/space.html`;
